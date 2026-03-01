@@ -1,6 +1,6 @@
 # Cedrick Balagtas IS 312 - Simple ATM
 This Python project simulates a basic ATM system. Users can check their balance, deposit, and withdraw money.
-## How to Run the Application Locally
+## How to Run
 1. Open the "BalagtasCedrick_ATM" folder
 2. Open the project "app.py" in PyCharm
 3. On the welcome screen, choose **Log In** to access the ATM
