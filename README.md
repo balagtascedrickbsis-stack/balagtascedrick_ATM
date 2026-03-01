@@ -5,8 +5,8 @@ This Python project simulates a basic ATM system. Users can check their balance,
 2. Open the project "app.py" in PyCharm
 3. On the welcome screen, choose **Log In** to access the ATM
 4. Use the menu to:
-  - View current balance
-  - Deposit funds
-  - Withdraw funds
-  - Log out
+    - View current balance
+    - Deposit funds
+    - Withdraw funds
+    - Log out
 6. Follow the on-screen prompts for each operation
