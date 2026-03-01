@@ -3,8 +3,9 @@ This Python project simulates a basic ATM system. Users can check their balance,
 ## How to Run
 1. Open the "BalagtasCedrick_ATM" folder
 2. Open the project "app.py" in PyCharm
-3. On the welcome screen, choose **Log In** to access the ATM
-4. Use the menu to:
+3. Run the program
+4. On the welcome screen, choose **Log In** to access the ATM
+5. Use the menu to:
     - View current balance
     - Deposit funds
     - Withdraw funds
